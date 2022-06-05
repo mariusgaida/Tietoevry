@@ -1,0 +1,31 @@
+.wrapperClass {
+    display: flex;
+    height: 100vh;
+}
+
+.calorie {
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    height: fit-content;
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+.wrapper {
+    display: flex;
+    height: 100vh;
+}
+
+.button {
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 3rem;
+    font-size: 1.5rem;
+}
+
+form {
+    text-align: center;
+}

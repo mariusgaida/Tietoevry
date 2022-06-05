@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles/styles.css">
+</head>
+<body>
+    <div class = "calorie" id = "calorie"></div>
+    <form onsubmit = "return false" id = "form">
+        <div>Esate moteris ar vyras?</div>
+        <label for="female">Moteris</label>
+        <input type="radio" id="female" name="gender" value="female" required>
+        <label for="male">Vyras</label>
+        <input type="radio" id="male" name="gender" value="male"><br><br>
+        <label for="age">Kiek Jums metų?</label><br>
+        <input id = "age" type = "number" min = "5" max = "130" name="age" required/><br><br>
+        <label for="tall">Įveskite savo ūgį centimetrais:</label><br>
+        <input id = "tall" type = "number" min = "50" max = "250" name="tall" required/><br><br>
+        <label for="weight">Įveskite savo svorį kilogramais:</label><br>
+        <input id = "weight" type = "number" min = "5" max = "300" name="weight" required/><br><br>
+        <label for = "activeLevel">Pasirinkite savo aktyvumo lygį:</label><br>
+        <select id = "activeLevel" name="activeLevel" required>
+            <option style="display:none;"></option>
+            <option>Mažas aktyvumas</option>
+            <option>Vidutinis aktyvumas</option>
+            <option>Didelis aktyvumas</option>
+        </select><br><br>
+        <input id = "submit" type="submit" value="Skaičiuoti">
+    </form>
+    
+    <div id = "wrapper" class="wrapperClass">
+        <button class = "button" id = "weekButton">Savaitės meniu</button> 
+        <button class = "button" id = "summerWeek">Vasaros meniu</button>
+        <button class = "button" id = "winterWeek">Žiemos meniu</button>
+    </div>
+    <script src = "./scripts/main.js"></script>
+</body>
+</html>

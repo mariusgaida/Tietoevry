@@ -1,0 +1,51 @@
+{
+  "meal":[
+    { "id": 1, "drink": "Granatų sultys", "carbohydrate": "14", "protein": "0.2", "fat": "0", "calorie": "58" },
+    { "id": 2, "drink": "Vynuogių sultys", "carbohydrate": "14.5", "protein":"0.3", "fat": "0", "calorie": "56" },
+    { "id": 3, "drink": "Apelsinų sultys", "carbohydrate": "8.4", "protein":"0.9", "fat": "0.1", "calorie": "36" },
+    { "id": 4, "drink": "Duonos gira", "carbohydrate": "5", "protein":"0.2", "fat": "0", "calorie": "36" },
+    { "id": 5, "drink": "Limonadas", "carbohydrate": "6.1", "protein":"0", "fat": "0", "calorie": "24" },
+    { "id": 6, "drink": "Pienas, 1%", "carbohydrate": "4.6", "protein":"2.8", "fat": "1", "calorie": "43" },
+    { "id": 7, "drink": "Kefyras, 1%", "carbohydrate": "4", "protein":"2.8", "fat": "0", "calorie": "37" },
+  
+    { "id": 8, "starter": "Bananai", "carbohydrate": "22.1", "protein": "1.7", "fat": "0", "calorie": "87" },
+    { "id": 9, "starter": "Mango", "carbohydrate": "11.8", "protein":"0.6", "fat": "0.4", "calorie": "69" },
+    { "id": 10, "starter": "Figos", "carbohydrate": "13.7", "protein":"0.9", "fat": "0", "calorie": "57" },
+    { "id": 11, "starter": "Obuoliai", "carbohydrate": "11.4", "protein":"0.5", "fat": "0", "calorie": "48" },
+    { "id": 12, "starter": "Mandarinai", "carbohydrate": "8.8", "protein":"0.9", "fat": "0", "calorie": "39" },
+    { "id": 13, "starter": "Vyšnios", "carbohydrate": "11.1", "protein":"0.9", "fat": "0", "calorie": "46" },
+    { "id": 14, "starter": "Greipfrutas", "carbohydrate": "7.5", "protein":"0.8", "fat": "0", "calorie": "37" },
+
+    { "id": 15, "bread": "Duona", "carbohydrate": "53", "protein": "7.4", "fat": "2.2", "calorie": "246" },
+    { "id": 16, "bread": "Bageliai", "carbohydrate": "69.7", "protein":"16.4", "fat": "1.1", "calorie": "342" },
+    { "id": 17, "bread": "Pita", "carbohydrate": "47.8", "protein":"7.7", "fat": "1.1", "calorie": "239" },
+    { "id": 18, "bread": "Bandelė", "carbohydrate": "43.7", "protein":"7.4", "fat": "1.8", "calorie": "218" },
+    { "id": 19, "bread": "Ruginė duona", "carbohydrate": "49.5", "protein":"4.7", "fat": "0.6", "calorie": "210" },
+    { "id": 20, "bread": "Džiūvėsiai", "carbohydrate": "73.2", "protein":"11.1", "fat": "1", "calorie": "335" },
+    { "id": 21, "bread": "Batonas", "carbohydrate": "49.5", "protein":"4.7", "fat": "0.6", "calorie": "261" },
+
+    { "id": 22, "mealS": "Soja", "carbohydrate": "17.3", "protein": "34.9", "fat": "17.3", "calorie": "364" },
+    { "id": 23, "mealS": "Lazdyno riešutai", "carbohydrate": "9.8", "protein":"16.3", "fat": "66.7", "calorie": "701" },
+    { "id": 24, "mealS": "Bulvės", "carbohydrate": "23.5", "protein":"2.6", "fat": "9.7", "calorie": "198" },
+    { "id": 25, "mealS": "Anakardžiai", "carbohydrate": "13.3", "protein":"25.8", "fat": "54.3", "calorie": "647" },
+    { "id": 26, "mealS": "Avižinė košė", "carbohydrate": "46", "protein":"23.5", "fat": "2", "calorie": "300" },
+    { "id": 27, "mealS": "Šparaginės pupelės", "carbohydrate": "61.9", "protein":"23.4", "fat": "1.3", "calorie": "347" },
+    { "id": 28, "mealS": "Žirniai", "carbohydrate": "61.9", "protein":"23.4", "fat": "1.3", "calorie": "347" },
+
+    { "id": 29, "mealW": "Papadamas", "carbohydrate": "59", "protein": "26", "fat": "3", "calorie": "371" },
+    { "id": 30, "mealW": "Lazdyno riešutai", "carbohydrate": "9.8", "protein":"16.3", "fat": "66.7", "calorie": "701" },
+    { "id": 31, "mealW": "Pekanijos", "carbohydrate": "13.8", "protein":"9.7", "fat": "72", "calorie": "691" },
+    { "id": 32, "mealW": "Kukurūzų košė", "carbohydrate": "83.6", "protein":"6.5", "fat": "2.9", "calorie": "372" },
+    { "id": 33, "mealW": "Avižiniai dribsniai", "carbohydrate": "69.1", "protein":"11.9", "fat": "2.9", "calorie": "358" },
+    { "id": 34, "mealW": "Fermentinis sūris", "carbohydrate": "61.9", "protein":"26.4", "fat": "26.5", "calorie": "352" },
+    { "id": 35, "mealW": "Varškės sūris", "carbohydrate": "27.6", "protein":"7.3", "fat": "23", "calorie": "344" },
+
+    { "id": 36, "desert": "Šokoladiniai saldainiai", "carbohydrate": "54.6", "protein": "3.9", "fat": "39", "calorie": "576" },
+    { "id": 37, "desert": "Juodasis šokolodas", "carbohydrate": "52.4", "protein":"5.2", "fat": "35.6", "calorie": "546" },
+    { "id": 38, "desert": "Pyragaičiai", "carbohydrate": "46.8", "protein":"5.7", "fat": "38.3", "calorie": "543" },
+    { "id": 39, "desert": "Halva", "carbohydrate": "54.6", "protein":"11.6", "fat": "29.3", "calorie": "519" },
+    { "id": 40, "desert": "Sausainiai", "carbohydrate": "76", "protein":"10.5", "fat": "5.2", "calorie": "447" },
+    { "id": 41, "desert": "Pieniškas šokoladas", "carbohydrate": "52.4", "protein":"6.7", "fat": "35.6", "calorie": "552" },
+    { "id": 42, "desert": "Vafliai", "carbohydrate": "53.1", "protein":"8.2", "fat": "19.8", "calorie": "425" }
+  ]
+}
